@@ -15,7 +15,7 @@ This project implements a deterministic one-way infinite single-tape Turing Mach
 
 - `JFLAP7.1.jar`: The JFLAP application used to create and simulate the Turing machine
 - `eskenazi_p6.jff`: The JFLAP file containing the Turing machine implementation
-- `eskenazi_p6-tests.txt`: Test cases for validating the Turing machine
+- `eskenazi_p6_tests.txt`: Test cases for validating the Turing machine
 
 ## Implementation Details
 
